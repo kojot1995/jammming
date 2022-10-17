@@ -1,6 +1,6 @@
 const clientId = 'fbba2162e14f49378508798caa13dbd7';
 // const redirectURI = 'http://localhost:3000/';
-const redirectURI = 'https://surge_jammming_project.surge.sh/';
+const redirectURI = 'https://jammmingspotify.netlify.app/';
 let accessToken;
 
 const Spotify = {
