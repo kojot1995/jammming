@@ -17,12 +17,14 @@ Connect with Spotify API, search for your favourite songs and create custom play
 
 
 ## Technologies Used
+This project was bootstrapped with Create React App.
 - HTML 5
 - CSS 3
 - JavaScript ES6
 - Node.js version 16.17.1
 - react version 18.2.0
 - react-dom 18.2.0
+
 
 
 ## Features
@@ -36,8 +38,15 @@ Connect with Spotify API, search for your favourite songs and create custom play
 
 
 ## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-Proceed to describe how to install / setup one's local environment / get started with the project.
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
 
 ## Project Status
